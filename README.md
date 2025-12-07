@@ -33,4 +33,14 @@ I'm **Hasin Ullah**, a DevOps Engineer passionate about automation, cloud platfo
 ### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-# hassankhan565
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hassankhan565&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasinUllah565&layout=compact&theme=dark)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=hassinullah565&label=Profile%20Views&color=green&style=flat" />
